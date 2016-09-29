@@ -1,0 +1,7 @@
+.wcsevilla {
+	cursor: pointer;
+	-webkit-box-shadow: 8px 8px 4px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 8px 8px 4px 0px rgba(0,0,0,0.75);
+	box-shadow: 8px 8px 4px 0px rgba(0,0,0,0.75);
+	margin-bottom: 30px;
+}
